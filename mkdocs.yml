@@ -1,0 +1,144 @@
+site_name: AI for Organizations
+site_description: A practitioner's guide to adopting, deploying, and governing AI in enterprise settings
+site_author: AI for Organizations Contributors
+site_url: https://your-org.github.io/AI-for-Organizations/
+repo_url: https://github.com/your-org/AI-for-Organizations
+repo_name: AI-for-Organizations
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - toc.integrate
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - content.action.edit
+
+plugins:
+  - search:
+      lang: en
+      separator: '[\s\-\.]+'
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - tables
+  - footnotes
+  - def_list
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/your-org/AI-for-Organizations
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+
+extra_css:
+  - assets/css/custom.css
+
+extra_javascript:
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+  - Fundamentals:
+    - AI Hype vs Reality: fundamentals/ai-hype-vs-reality.md
+    - Organizational Readiness: fundamentals/organizational-readiness.md
+    - AI Adoption Failures: fundamentals/ai-adoption-failures.md
+
+  - Leadership:
+    - AI Strategy: leadership/ai-strategy.md
+    - Governance: leadership/governance.md
+    - ROI and Value: leadership/roi-and-value.md
+    - Vendor Risk: leadership/vendor-risk.md
+    - Procurement: leadership/procurement.md
+
+  - Operations:
+    - Workflow Integration: operations/workflow-integration.md
+    - Employee Adoption: operations/employee-adoption.md
+    - Process Redesign: operations/process-redesign.md
+    - Change Management: operations/change-management.md
+    - Operational Risks: operations/operational-risks.md
+
+  - Engineering:
+    - AI Architecture: engineering/ai-architecture.md
+    - RAG Systems: engineering/rag-systems.md
+    - AI Agents: engineering/ai-agents.md
+    - Observability: engineering/observability.md
+    - Security and Privacy: engineering/security-and-privacy.md
+    - Evaluation and Testing: engineering/evaluation-and-testing.md
+    - Deployment Models: engineering/deployment-models.md
+
+  - Governance:
+    - AI Policy: governance/ai-policy.md
+    - Data Governance: governance/data-governance.md
+    - Compliance: governance/compliance.md
+    - Human Oversight: governance/human-oversight.md
+
+  - Case Studies:
+    - Enterprise Chatbot: case-studies/enterprise-chatbot.md
+    - Internal Knowledge Assistant: case-studies/internal-knowledge-assistant.md
+    - Document Automation: case-studies/document-automation.md
+
+  - Frameworks:
+    - AI Readiness Framework: frameworks/ai-readiness-framework.md
+    - Adoption Maturity Model: frameworks/adoption-maturity-model.md
+    - Vendor Evaluation Framework: frameworks/vendor-evaluation-framework.md
+
+  - Glossary: glossary.md
