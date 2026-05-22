@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p docs/diagrams/architecture docs/diagrams/governance docs/diagrams/workflows docs/assets/images docs/assets/downloads drafts/notes drafts/unfinished drafts/experiments research/statistics presentations/executive-slides presentations/workshop-materials presentations/conference-talks)",
+      "Bash(touch __TRACKED_VAR__/.gitkeep)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)"
+    ]
+  }
+}

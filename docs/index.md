@@ -1,47 +1,35 @@
 # AI for Organizations
+## A Practical Guide for Leaders, Teams, and Developers
 
-A practitioner's guide to adopting, deploying, and governing artificial intelligence in enterprise and institutional settings.
+This book helps every role in an organization understand, adopt, and govern AI — from the boardroom to the codebase.
 
 ---
 
-## What This Guide Covers
+## Who This Book Is For
 
-This is not a guide about what AI *can* do. It is a guide about what organizations need to do to make AI work — reliably, safely, and at scale.
-
-The material is organized around four functional perspectives:
-
-| Perspective | Audience | Core Questions |
+| Role | Start Here | Goal |
 |---|---|---|
-| **Fundamentals** | Everyone | What is real? What is hype? Are we ready? |
-| **Leadership** | Executives, directors | How do we govern, fund, and measure AI? |
-| **Operations** | Managers, teams | How do we integrate AI into daily work? |
-| **Engineering** | Architects, engineers | How do we build and operate AI systems? |
+| Executives & Directors | [Part 2 — Leadership](part2-leadership/chapter-05-ai-vision.md) | Set strategy, govern risk, measure value |
+| Managers & Product Owners | [Part 3 — Management](part3-management/chapter-10-strategy-to-execution.md) | Run adoption, redesign processes, deliver results |
+| Developers & Architects | [Part 4 — Developers](part4-developers/chapter-19-understanding-ai-systems.md) | Build, secure, and operate AI systems |
+| Everyone | [Part 1 — Foundations](part1-foundations/chapter-01-what-ai-really-is.md) | Shared vocabulary and realistic expectations |
 
 ---
 
-## How to Use This Guide
+## Reading Paths
 
-**If you are assessing AI readiness**, start with [Fundamentals](fundamentals/organizational-readiness.md) and the [AI Readiness Framework](frameworks/ai-readiness-framework.md).
+**Strategic path** — Parts 1 → 2 → 5
 
-**If you are setting strategy**, read [AI Strategy](leadership/ai-strategy.md), [Governance](leadership/governance.md), and [ROI and Value](leadership/roi-and-value.md).
+**Operational path** — Parts 1 → 3 → 5
 
-**If you are running a deployment**, go to [Operations](operations/workflow-integration.md) and [Case Studies](case-studies/enterprise-chatbot.md).
-
-**If you are building systems**, start at [Engineering](engineering/ai-architecture.md) and [Security and Privacy](engineering/security-and-privacy.md).
+**Technical path** — Parts 1 → 4 → 5
 
 ---
 
-## Key Principles
+## Book Structure
 
-- **Specificity over generality.** General AI claims are rarely actionable. This guide focuses on concrete decisions, tradeoffs, and patterns.
-- **Failures are data.** Understanding why AI initiatives fail is as important as understanding how to succeed.
-- **Governance is not optional.** Every section connects back to accountability, oversight, and risk.
-- **People determine outcomes.** Technology is rarely the limiting factor. Process, culture, and incentives usually are.
-
----
-
-## Status
-
-This guide is actively maintained. Sections marked *Draft* are incomplete or under review.
-
-See [About](about.md) for contribution guidelines and the writing style guide.
+- **[Part 1 — AI Foundations](part1-foundations/chapter-01-what-ai-really-is.md)** — What AI is, why it matters now, and how to govern it responsibly. For everyone.
+- **[Part 2 — Leadership](part2-leadership/chapter-05-ai-vision.md)** — Vision, strategy, governance, transformation, and measurement.
+- **[Part 3 — Management](part3-management/chapter-10-strategy-to-execution.md)** — Execution, use case prioritization, process redesign, adoption, and delivery.
+- **[Part 4 — Developers](part4-developers/chapter-19-understanding-ai-systems.md)** — Architecture, RAG, agents, security, observability, and engineering practices.
+- **[Part 5 — Enterprise](part5-enterprise/chapter-25-center-of-excellence.md)** — Centers of excellence, scaling, case studies, and the future.

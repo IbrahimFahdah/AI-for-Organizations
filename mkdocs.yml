@@ -1,8 +1,8 @@
 site_name: AI for Organizations
-site_description: A practitioner's guide to adopting, deploying, and governing AI in enterprise settings
+site_description: A Practical Guide for Leaders, Teams, and Developers
 site_author: AI for Organizations Contributors
-site_url: https://your-org.github.io/AI-for-Organizations/
-repo_url: https://github.com/your-org/AI-for-Organizations
+site_url: https://IbrahimFahdah.github.io/AI-for-Organizations/
+repo_url: https://github.com/IbrahimFahdah/AI-for-Organizations
 repo_name: AI-for-Organizations
 edit_uri: edit/main/docs/
 
@@ -82,10 +82,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/your-org/AI-for-Organizations
-  analytics:
-    provider: google
-    property: G-XXXXXXXXXX
+      link: https://github.com/IbrahimFahdah/AI-for-Organizations
 
 extra_css:
   - assets/css/custom.css
@@ -97,44 +94,46 @@ nav:
   - Home: index.md
   - About: about.md
 
-  - Fundamentals:
-    - AI Hype vs Reality: fundamentals/ai-hype-vs-reality.md
-    - Organizational Readiness: fundamentals/organizational-readiness.md
-    - AI Adoption Failures: fundamentals/ai-adoption-failures.md
+  - Part 1 — Foundations:
+    - Chapter 1 — What AI Really Is: part1-foundations/chapter-01-what-ai-really-is.md
+    - Chapter 2 — Why AI Matters Now: part1-foundations/chapter-02-why-ai-matters-now.md
+    - Chapter 3 — The Organizational Landscape: part1-foundations/chapter-03-organizational-landscape.md
+    - Chapter 4 — Responsible AI and Governance: part1-foundations/chapter-04-responsible-ai.md
 
-  - Leadership:
-    - AI Strategy: leadership/ai-strategy.md
-    - Governance: leadership/governance.md
-    - ROI and Value: leadership/roi-and-value.md
-    - Vendor Risk: leadership/vendor-risk.md
-    - Procurement: leadership/procurement.md
+  - Part 2 — Leadership:
+    - Chapter 5 — Creating an AI Vision: part2-leadership/chapter-05-ai-vision.md
+    - Chapter 6 — Enterprise AI Strategy: part2-leadership/chapter-06-enterprise-ai-strategy.md
+    - Chapter 7 — Governance and Oversight: part2-leadership/chapter-07-governance-oversight.md
+    - Chapter 8 — Leading Transformation: part2-leadership/chapter-08-leading-transformation.md
+    - Chapter 9 — Measuring Strategic Success: part2-leadership/chapter-09-measuring-success.md
+    - Executive Toolkit: part2-leadership/toolkit.md
 
-  - Operations:
-    - Workflow Integration: operations/workflow-integration.md
-    - Employee Adoption: operations/employee-adoption.md
-    - Process Redesign: operations/process-redesign.md
-    - Change Management: operations/change-management.md
-    - Operational Risks: operations/operational-risks.md
+  - Part 3 — Management:
+    - Chapter 10 — Strategy to Execution: part3-management/chapter-10-strategy-to-execution.md
+    - Chapter 11 — Use Case Prioritization: part3-management/chapter-11-use-case-prioritization.md
+    - Chapter 12 — Process Redesign: part3-management/chapter-12-process-redesign.md
+    - Chapter 13 — Adoption and Change: part3-management/chapter-13-adoption-change.md
+    - Chapter 14 — Product Management: part3-management/chapter-14-product-management.md
+    - Chapter 15 — Operational Governance: part3-management/chapter-15-operational-governance.md
+    - Chapter 16 — Cross-Functional Delivery: part3-management/chapter-16-cross-functional-delivery.md
+    - Chapter 17 — Measuring Operational Impact: part3-management/chapter-17-measuring-operational-impact.md
+    - Chapter 18 — Building an AI-Ready Organization: part3-management/chapter-18-ai-ready-organization.md
+    - Management Toolkit: part3-management/toolkit.md
 
-  - Engineering:
-    - AI Architecture: engineering/ai-architecture.md
-    - RAG Systems: engineering/rag-systems.md
-    - AI Agents: engineering/ai-agents.md
-    - Observability: engineering/observability.md
-    - Security and Privacy: engineering/security-and-privacy.md
-    - Evaluation and Testing: engineering/evaluation-and-testing.md
-    - Deployment Models: engineering/deployment-models.md
+  - Part 4 — Developers:
+    - Chapter 19 — Understanding AI Systems: part4-developers/chapter-19-understanding-ai-systems.md
+    - Chapter 20 — Building AI Applications: part4-developers/chapter-20-building-ai-applications.md
+    - Chapter 21 — Data and Infrastructure: part4-developers/chapter-21-data-infrastructure.md
+    - Chapter 22 — Security and Reliability: part4-developers/chapter-22-security-reliability.md
+    - Chapter 23 — Engineering Best Practices: part4-developers/chapter-23-engineering-best-practices.md
+    - Chapter 24 — The Future of AI Engineering: part4-developers/chapter-24-future-of-ai-engineering.md
+    - Developer Toolkit: part4-developers/toolkit.md
 
-  - Governance:
-    - AI Policy: governance/ai-policy.md
-    - Data Governance: governance/data-governance.md
-    - Compliance: governance/compliance.md
-    - Human Oversight: governance/human-oversight.md
-
-  - Case Studies:
-    - Enterprise Chatbot: case-studies/enterprise-chatbot.md
-    - Internal Knowledge Assistant: case-studies/internal-knowledge-assistant.md
-    - Document Automation: case-studies/document-automation.md
+  - Part 5 — Enterprise:
+    - Chapter 25 — Center of Excellence: part5-enterprise/chapter-25-center-of-excellence.md
+    - Chapter 26 — Scaling AI: part5-enterprise/chapter-26-scaling-ai.md
+    - Chapter 27 — Case Studies: part5-enterprise/chapter-27-case-studies.md
+    - Chapter 28 — The Future AI Organization: part5-enterprise/chapter-28-future-organization.md
 
   - Frameworks:
     - AI Readiness Framework: frameworks/ai-readiness-framework.md
