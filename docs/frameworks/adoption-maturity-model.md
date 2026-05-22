@@ -102,5 +102,5 @@ The AI Adoption Maturity Model describes the progression from initial experiment
 ## Related
 
 - [AI Readiness Framework](ai-readiness-framework.md)
-- [AI Strategy](../leadership/ai-strategy.md)
-- [AI Adoption Failures](../fundamentals/ai-adoption-failures.md)
+- [AI Strategy](../part2-leadership/chapter-06-enterprise-ai-strategy.md)
+- [AI Adoption and Change](../part3-management/chapter-13-adoption-change.md)

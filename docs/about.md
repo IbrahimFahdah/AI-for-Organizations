@@ -81,4 +81,4 @@ It prioritizes:
 
 ## License
 
-Content is licensed under [CC BY 4.0](../LICENSE). You may reuse, adapt, and redistribute with attribution.
+Content is licensed under CC BY 4.0. You may reuse, adapt, and redistribute with attribution.

@@ -82,6 +82,5 @@ Score each criterion 1–5.
 
 ## Related
 
-- [Vendor Risk](../leadership/vendor-risk.md)
-- [Procurement](../leadership/procurement.md)
-- [Security and Privacy](../engineering/security-and-privacy.md)
+- [Enterprise AI Strategy](../part2-leadership/chapter-06-enterprise-ai-strategy.md)
+- [Security and Reliability](../part4-developers/chapter-22-security-reliability.md)

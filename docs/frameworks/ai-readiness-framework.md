@@ -113,6 +113,6 @@ Score each dimension from 1–5 using the descriptors below. Use the aggregate s
 
 ## Related
 
-- [Organizational Readiness](../fundamentals/organizational-readiness.md)
+- [Organizational Landscape](../part1-foundations/chapter-03-organizational-landscape.md)
 - [Adoption Maturity Model](adoption-maturity-model.md)
-- [AI Strategy](../leadership/ai-strategy.md)
+- [AI Strategy](../part2-leadership/chapter-06-enterprise-ai-strategy.md)

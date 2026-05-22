@@ -33,7 +33,7 @@ RAG is the most common enterprise AI pattern: combine a vector search over your 
 
 **Key decisions:** Chunk size, embedding model, number of retrieved chunks, reranking, prompt design.
 
-See the detailed [RAG Systems](../engineering/rag-systems.md) reference.
+See the detailed [RAG section in Chapter 20](#retrieval-augmented-generation-rag) and the [Developer Toolkit](toolkit.md) for architecture diagrams.
 
 ---
 
