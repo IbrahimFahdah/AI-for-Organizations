@@ -9,10 +9,10 @@ This book helps every role in an organization understand, adopt, and govern AI �
 
 | Role | Start Here | Goal |
 |---|---|---|
+| Everyone | [Part 1 — Foundations](part1-foundations/chapter-01-what-ai-really-is.md) | Shared vocabulary and realistic expectations |
 | Executives & Directors | [Part 2 — Leadership](part2-leadership/chapter-05-ai-vision.md) | Set strategy, govern risk, measure value |
 | Managers & Product Owners | [Part 3 — Management](part3-management/chapter-10-strategy-to-execution.md) | Run adoption, redesign processes, deliver results |
 | Developers & Architects | [Part 4 — Developers](part4-developers/chapter-19-understanding-ai-systems.md) | Build, secure, and operate AI systems |
-| Everyone | [Part 1 — Foundations](part1-foundations/chapter-01-what-ai-really-is.md) | Shared vocabulary and realistic expectations |
 
 ---
 
