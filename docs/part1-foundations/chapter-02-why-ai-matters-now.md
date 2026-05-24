@@ -48,6 +48,34 @@ In most organizations, AI changes tasks and workflows more often than it complet
 
 ---
 
+## AI and Workforce Competence
+
+AI adoption affects more than productivity and automation. It also changes how organizations develop, maintain, and apply professional competence.
+
+AI can both strengthen and weaken organizational capability depending on how it is used.
+
+Common patterns include:
+
+| Pattern | Description |
+|---|---|
+| AI-enabled upskilling | AI helps employees improve productivity, learning, decision support, and operational effectiveness |
+| AI overreliance | Excessive dependence on AI reduces critical thinking, verification, or professional judgment |
+| Misapplied AI usage | Employees use AI in situations where they lack sufficient expertise to evaluate outputs properly |
+| AI avoidance | Employees or organizations avoid useful AI capabilities and gradually fall behind changing operational practices |
+
+The long-term impact of AI on organizational competence depends not only on the technology itself, but also on:
+- how employees learn and apply skills,
+- how workflows are designed,
+- how much critical thinking and human judgment remain involved,
+- the quality of training and oversight,
+- and how AI systems are integrated into everyday work practices.
+
+AI can strengthen organizational capability when it supports learning, decision-making, and operational effectiveness. However, excessive dependence on AI without sufficient understanding or oversight may gradually weaken professional judgment, verification practices, and institutional expertise.
+
+Avoiding AI adoption entirely may itself create risks or disadvantages over time. In some operational environments, organizations that fail to develop AI-related capabilities may gradually lose adaptability, workforce relevance, or competitiveness.
+
+---
+
 ## Operational AI Adoption Across Industries
 
 | Industry | Common AI Applications | Main Operational Challenges |
@@ -61,6 +89,29 @@ In most organizations, AI changes tasks and workflows more often than it complet
 | Professional Services | Research, drafting, knowledge retrieval | Accuracy, confidentiality, client trust |
 
 ---
+
+## Organizational Responses to AI Adoption
+
+Organizations respond to AI adoption differently depending on leadership priorities, operational readiness, regulatory constraints, and market pressure.
+
+Common organizational response patterns include:
+
+### Strategic Integrators
+These organizations treat AI as a long-term operational capability. They redesign workflows, invest in workforce capability, establish governance structures, and integrate AI into broader operational and strategic planning.
+
+### Operational Adapters
+These organizations recognize that AI affects their operating environment and gradually adapt processes, workflows, and workforce practices to remain effective and competitive.
+
+### Experimental Adopters
+These organizations actively explore AI tools and pilots but often struggle to move beyond isolated experimentation into coordinated operational adoption.
+
+### Resistant Organizations
+These organizations delay or avoid AI adoption due to organizational inertia, unclear value, regulatory concerns, risk aversion, or confidence in existing operational models.
+
+Organizations may move between these categories over time as operational pressures, governance maturity, leadership priorities, and market conditions evolve.
+
+---
+
 
 ## Risks of Ignoring AI
 
