@@ -74,7 +74,7 @@ AI can strengthen organizational capability when it supports learning, decision-
 
 Avoiding AI adoption entirely may itself create risks or disadvantages over time. In some operational environments, organizations that fail to develop AI-related capabilities may gradually lose adaptability, workforce relevance, or competitiveness.
 
----
+--- 
 
 ## Operational AI Adoption Across Industries
 
